@@ -1,6 +1,6 @@
 ---
 title: Jet Drill Press
-draft:
+description: Manual Drill Press
 ---
 
 {{% figure src="dewalt-miter-saw-DWS715.jpg" %}}

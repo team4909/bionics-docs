@@ -1,5 +1,6 @@
 ---
 title: Grizzly Sheet Metal Machine
+description: "Sheet Metal: Break, Shear, Roller"
 ---
 
 {{% figure src="grizzly-sheet-metal-machine-g4011z.jpg" %}}

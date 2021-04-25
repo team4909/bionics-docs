@@ -1,5 +1,6 @@
 ---
 title: Grizzly Manual Lathe
+description: Manual 3-axis lathe
 ---
 
 {{% figure src="grizzly-lathe-g0752.jpg" %}}

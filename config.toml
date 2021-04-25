@@ -31,7 +31,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "category", "RSS"]
 [params]
 ordersectionsby = "weight" # ordersectionsby = "title"
 color_main = "#737373"
-#color_second = "#b30000"
+color_second = "#0b4833"
 disableSearch = false # default is false
 disableNavChevron = false # set true to hide next/prev chevron, default is false
 menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
@@ -72,16 +72,16 @@ tabWidth = 2
 #
 # top menu shotcuts
 #
-# [[menu.shortcuts]]
-# name = "Github"
-# identifier = "ds"
-# url = "https://github.com/vjeantet/hugo-theme-docport"
-# weight = 10
+[[menu.shortcuts]]
+name = "Team Github"
+identifier = "ds"
+url = "https://github.com/FRCteam4909"
+weight = 10
 
-# [[menu.shortcuts]]
-# name = "Download"
-# url = "https://github.com/vjeantet/hugo-theme-docport/archive/master.zip"
-# weight = 11
+[[menu.shortcuts]]
+name = "Team 4909"
+url = "https://www.team4909.org/"
+weight = 11
 
 # [[menu.shortcuts]]
 # name = "Hugo Documentation"

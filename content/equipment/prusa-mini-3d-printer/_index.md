@@ -1,7 +1,6 @@
 ---
 title: Prusa Mini 3D Printer
 description: 3D Printer
-draft: true
 ---
 
 {{% figure src="prusa-mini.jpg" %}}

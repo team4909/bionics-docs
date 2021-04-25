@@ -1,5 +1,6 @@
 ---
 title: Sawstop Table Saw
+description: Manual Table Saw
 ---
 
 {{% figure src="sawstop-table-saw.png" %}}

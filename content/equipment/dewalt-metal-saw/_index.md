@@ -1,6 +1,6 @@
 ---
 title: Dewalt Metal Miter Saw
-draft: false
+description: Manual Chop Saw
 ---
 
 {{% figure src="dewalt-metal-miter-saw-dw872.jpg" %}}

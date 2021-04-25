@@ -27,9 +27,12 @@ Drawing sheets from CAD can be "printed" to the printer from Illustrator (No CAM
 - Acrylic
 - Delrin/Acetal Plastic
 
-NOTE: PVC MAY NOT BE CUT ON THE LASER. Poisonous Chlorine gas is produced.
+NOTE: PVC MAY **NOT** BE CUT ON THE LASER. Poisonous Chlorine gas is produced.
 
 ## Additional Resources
-- [Vendor Product Page][2]
+- [Vendor Product Page][1]
+- [Laser material Setings][2]
 
-[2]: https://www.epiloglaser.com/laser-machines/mini-helix-engraver-cutter/
+[1]: https://www.epiloglaser.com/laser-machines/mini-helix-engraver-cutter/
+<!-- Source: https://www.epiloglaser.com/assets/downloads/fusion-material-settings.pdf  -->
+[2]: laser-material-settings.pdf

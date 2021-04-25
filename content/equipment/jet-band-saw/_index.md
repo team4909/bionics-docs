@@ -1,5 +1,6 @@
 ---
 title: Jet Band Saw
+description: Manual Band Saw
 ---
 
 {{% figure src="" %}}
