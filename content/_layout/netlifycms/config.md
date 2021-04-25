@@ -7,7 +7,7 @@ url: /admin/config.yml
 backend:
   name: "github"
   repo: "TechplexEngineer/bionics-docs"
-  branch: "master"
+  branch: "main"
   open_authoring: true
 
 # Media files will be stored in the repo under images/uploads
