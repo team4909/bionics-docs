@@ -1,5 +1,5 @@
 ---
-netlifycms_content_folder: "exampleSite/content"
+netlifycms_content_folder: "content"
 outputs:
 - netlifyyaml
 url: /admin/config.yml
