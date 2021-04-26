@@ -1,9 +1,34 @@
 <!-- https://github.com/alex-shpak/hugo-book/blob/master/layouts/shortcodes/columns.html -->
 
+{{/*
+	This shortcode allows creating columns.
+	Example:
+	```
+	{{<columns markdown="true" >}}
+		Column 1
+	<---> <!-- separator between columns -->
+		Column 2
+	{{</columns>}}
+	```
+
+	Note the optional markdown parameter. If set to false the interior text is not
+	sent through the markdown parser. eg: `{{<columns markdown="false" >}}`
+	This can be helpful if the markdown parser is adding additional spaces or otherwise
+	altering the internal column content
+
+*/}}
+
+
+{{- $noMarkdown :=  eq (.Get "markdown") "false" }}
+
 <div class="columns">
   {{ range split .Inner "<--->" }}
   <div class="column">
-    {{ . | safeHTML }}
+  	{{- if $noMarkdown }}
+    	{{ . | safeHTML }}
+    {{- else -}}
+    	{{ . | safeHTML | markdownify }}
+    {{- end -}}
   </div>
   {{ end }}
 </div>

@@ -10,11 +10,11 @@ This machine is capable of rapidly cutting out complex two-dimensional geometry 
 
 ## Specifications
 - Work Area
-|                |         |         |
-| -------------- | ------- | ------- |
-| X (front-back) | 18.0 in | 45.7 mm |
-| Y (left-right) | 24.0 in | 61.0 mm |
-| Z (up-down)    |  5.8 in | 21.6 mm |
+|                |         |        |
+| -------------- | ------- | ------ |
+| X (front-back) | 18.0 in | 457 mm |
+| Y (left-right) | 24.0 in | 610 mm |
+| Z (up-down)    |  8.5 in | 216 mm |
 - Power: 60 Watts
 - Laser Type: CO2
 - Model: Epilog Helix
@@ -32,7 +32,10 @@ NOTE: PVC MAY **NOT** BE CUT ON THE LASER. Poisonous Chlorine gas is produced.
 ## Additional Resources
 - [Vendor Product Page][1]
 - [Laser material Setings][2]
+- [Epilog Helix Manual][3]
 
 [1]: https://www.epiloglaser.com/laser-machines/mini-helix-engraver-cutter/
 <!-- Source: https://www.epiloglaser.com/assets/downloads/fusion-material-settings.pdf  -->
 [2]: laser-material-settings.pdf
+<!-- Source: https://www.epiloglaser.com/assets/downloads/manuals/legend-manual-web.pdf -->
+[3]: epilog-helix-manual.pdf
