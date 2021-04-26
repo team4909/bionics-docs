@@ -31,7 +31,7 @@ NOTE: PVC MAY **NOT** BE CUT ON THE LASER. Poisonous Chlorine gas is produced.
 
 ## Additional Resources
 - [Vendor Product Page][1]
-- [Laser material Setings][2]
+- [Laser material Settings][2]
 - [Epilog Helix Manual][3]
 
 [1]: https://www.epiloglaser.com/laser-machines/mini-helix-engraver-cutter/
