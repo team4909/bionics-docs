@@ -1,5 +1,5 @@
 ---
-title: CAD
+title: Robots & Design
 ---
 
 Team4909 has chosen to standardize on using OnShape for designs and Fusion 360 for CAM. CAD stands for Computer Aided Design, whereas CAM stands for Computer Aided Machining.
