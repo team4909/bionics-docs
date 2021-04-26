@@ -26,6 +26,21 @@ graph TD
 
 {{< /mermaid >}}
 
+## About Student Leadersip
+- A team leader must demonstrate
+    - strong communication skills 
+    - a solid understanding of their domain
+    - effective project management skills
+    - ability to make the time commitment
+
+- A team leader is responsible for
+    - facilitating brainstorming and execution
+    - settings goals, measuring outcomes
+    - defining, delegating, and prioritizing tasks
+    - defining a schedule
+    - ensuring clear communication between all members
+    - identify and triage blocking issues
+
 
 ## Leadership Roles
 Leadership roles are mentor assigined with input from the team via a secret ballot poll. The mentors work to make the best selections for the success of the team. The mentors take many aspects into account, including attentance from the prior season. 
