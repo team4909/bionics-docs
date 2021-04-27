@@ -13,7 +13,7 @@ Billerica Bionics _FIRST_ Robotics Team 4909 Knowledge Base
 
 {{<columns markdown="false" >}}
 {{<panel theme="default" header="## [Equipment](/equipment)">}}
-    {{<children depth=2 description="" page="equipment">}}{{</children>}}
+    {{<children depth=4 description="" page="equipment">}}{{</children>}}
 {{</panel>}}
 
 <--->
