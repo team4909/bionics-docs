@@ -86,7 +86,6 @@ When measuring distance we've used a number of different sensors, including:
 Mechanical switches or non-contact proximity switches.
 - [Photoelectric Sensor (p/n: 42EF-D2MPAK-F4)][8]
 
-### Photoelectric
 
 [1]: https://www.andymark.com/products/am14u4-kit-of-parts-chassis
 [2]: https://www.homedepot.com/p/Sandeply-5-2mm-Sande-Plywood-1-4-in-Category-Common-1-4-in-x-4-ft-x-8-ft-Actual-0-205-in-x-48-in-x-96-in-479023/203414042
