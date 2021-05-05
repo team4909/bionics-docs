@@ -1,5 +1,6 @@
 ---
 title: How Parts are Made
+description: Flow of Concepts to Parts
 ---
 
 {{< mermaid >}}
