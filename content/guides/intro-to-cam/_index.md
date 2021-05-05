@@ -2,6 +2,7 @@
 title: Intro to CAM with Fusion 360
 description: Getting started with Fusion 360 CAM
 src: https://docs.google.com/document/d/1EK63A9zoJkVzYDzSKFMsQuw_GsHjY60yi7C2bry6HIY
+weight: 1
 ---
 
 This is a brief introduction/refresher for creating GCODE via Fusion 360 CAM. This guide assumes CAM is targeted at the Velox using Mach3 as the GCODE sender.
@@ -33,10 +34,9 @@ This is a brief introduction/refresher for creating GCODE via Fusion 360 CAM. Th
     4. Tab 3: If machining tubes set the WCS (work coordinate system) to 6 to indicate the vises that are setup on our Velox. (WCS6 is pre-configured in the Mach3 software on the PC connected to the Velox.) {{<expand "Show Me..." >}}![](fusion-setup-tab3.png?height=180px){{< /expand >}}
     
 6. Now that the setup is done, you can create operations to make your part.
-    - Do the most tricky operations first. That way if something goes wrong, you won't have invested as much time in your new piece of scrap.
-    - Do small holes first, using a 2D bore using an ⅛ or ³/¹⁶ endmill.
-    - Next do any larger holes or lightening with a ¼ endmill. These will require two operations, first an adaptive clear to quickly rough out the hole, then a 2d contour to cleanup
-    - Finally use a 2d countour to cut out your part. This requires a much slower cut. We often find creating a "virtual moat" and using an adaptive clear is a faster operation.
+    1. If you haven't already import the CAM templates. <a href="{{< relref "import-cam-templates" >}}" target="__blank">Here's How</a>
+    2. Next, See <a href="{{< relref "using-cam-templates" >}}" target="__blank">How to Use the CAM templates</a>
+
 
 
 
