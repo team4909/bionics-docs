@@ -72,5 +72,17 @@ Don't hesitate to ask for help.
 **Be prepared to cancel the run with the stop button**
 {{% /notice %}}  
 
-**Other Notes:**
+**Tube Vises:**
 To use the Vises at the back of the machine for tube stock be sure to choose WCS 6 when doing your setup in Fusion 360.
+
+**Jogging Faster**
+
+{{<columns>}}
+Press the tab key on your keyboard to show the "MPG" (Manual Pulse Generator). This lets us change how fast we jog the machine with our arrow keys (Click the "Jog Mode" button to cycle through the options. Focus on Step and Cont. [ie. continuous] )
+
+The Continuous mode allows moving the tool at the "MPG Feedrate" which is set to 100 in the image.
+
+The step mode allows for fine control of the tool. One can change the step size with the "Cycle Job Step" button or by direct entry into the field labeled #2 in the image.
+<--->
+![](mach-3-mpg.png)
+{{</columns>}}
