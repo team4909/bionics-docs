@@ -1,7 +1,7 @@
 ---
 title: Remote Programming
 description: programming remotely
-date: 2021-05-10T22:25:12.907Z
+date: 2021-05-10T22:30:35.726Z
 weight: 10
 hidden: false
 subpage: false
