@@ -2,6 +2,7 @@
 title: Running the Velox
 description: How to send GCODE to the Velox router to make parts.
 src: https://docs.google.com/document/d/1Cl5f7by6RNavUW2v51UfF2MT3FuOGsQu2Wud1bpwb0c/edit
+weight: 30
 ---
 
 Once you have completed your CAM, it is time to make your part!

@@ -1,6 +1,7 @@
 ---
 title: Laser Cutter Intro
-description:
+description: How to use the laser cutter to make parts for prototypes
+weight: 40
 ---
 
 We often design prototypes, in OnShape, that can quickly be cut out of 1/4" plywood on the laser cutters.

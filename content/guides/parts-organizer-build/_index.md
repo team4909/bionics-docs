@@ -1,11 +1,14 @@
 ---
 title: Parts Organizer
 description: Build Instructions
+weight: 100
 ---
 
 Based on the inspiration of the [Killer Bees Battery Cart](https://www.chiefdelphi.com/t/killer-bees-frc-battery-cart/389013) we designed and built a wheeled parts storage cart.
 
-This guide provides step-by-step build instructions for making your very own parts organizer rack for your robotics team. This design is made of plywood.
+This guide provides build instructions for making your very own parts organizer rack for your robotics team. This design is made of plywood, properly gluing all joints is critically important.
+
+The organizer has space for 17 shallow organizers or 8 deep organizers and 1 shallow. Depending on how part are organized parts one can mix and match small and large organizers.
 
 Drawings are [available for Download](part_bin_organizer_rack.pdf)
 {{<columns>}}
@@ -35,9 +38,10 @@ Qty.    | Item                        | Source
 1       | Wood glue (Titebond II)     | [Home Depot][8]
 1       | 24" Bungee Cord             | [Amazon][9]
 17.5"   | 1-1/4" Dowel Rod            | [Home Depot][10]
-        | Deep Pro Organizer          | [Home Depot][11]
-        | Shallow Pro Organizer       | [Home Depot][12]
+_       | Deep Pro Organizer          | [Home Depot][11]
+_       | Shallow Pro Organizer       | [Home Depot][12]
 6       | Rubber Bumpon (Came in KOP) | [Image][13]
+~24     | 1 5/8" Screws               |
 1 Quart | Paint or Polyurethane       |
 
 [1]: https://www.homedepot.com/p/18mm-Sande-Plywood-3-4-in-Category-x-4-ft-x-8-ft-Actual-0-709-in-x-48-in-x-96-in-454559/203414066
@@ -64,14 +68,14 @@ List of tools needed.
 - Hacksaw or Cutoff Wheel
 - Air Nailer (15 gauge)
 - Sanding block / Sander
-- Forstner bits 3⁄4”, 1-1/4"
+- Forstner bits 7⁄8", 1-1/4"
 - Countersink bit
 - Clamps
 - Hammer
 - Wood Glue Spreader
 - 1.5" Paint Brush
 
-## Instructions
+## Prepare Parts
 Start by preparing all the pieces. 
 
 ### Cut Sheet
@@ -79,31 +83,77 @@ We provide a cut sheet below to help plan your cuts.
 ![](cut-sheet.png)
 
 ### Other Parts
-These few parts are also needed.
-1. ![](axle-holder.png)
-2. ![](left-handle-holder.png)
-3. ![](right-handle-holder.png)
-4. ![](handle.png)
+These few parts are also needed:
+1. Axle Holder - Made from 2x4
+2. Left Handle Holder - Made from 2x4
+3. Right Handle Holder - Made from 2x4
+4. Handle - Made from the 1.25" dowel
 
 ### Spacers
 To make assembly of the sliders much easier we recommend fabricating two spacers. The "Base Spacer" is used for the first slider, the other "Spacer" is to be used for all the other sliders.
+
+We assembled the stoppers to the spacers with nails and, were careful to ensure the stoppers were square to the spacer body.
+
+We found it is easy for error to stack up. Be careful when using the spacer to align the back of the spacer with the edge of the base.
+
+## Instructions
+
+### 1. Use "Base Spacer" to install first slider
+Attach with glue and 16 gage 1 1/4" nails.
+Align spacer (shown in green) to bottom edge and back edge.
+![](base-spacer-usage.png)
+
+### 2. Use the "Spacer" jig to install 16 more sliders
+Align spacer (shown in gray) to previous slider and back edge.
+![](spacer-usage.png)
+
+### 3. Repeat steps 1 and 2 for the other side
+
+### 4. Check slider placement
+Place left and right assemblies face to face to ensure that all spacers are aligned properly before proceeding
+
+### 5. Frame Assembly: Assemble Bottom to Back
+Glue and nail from the bottom
+![](asm-back-bottom.png)
+
+### 6. Assemble Right to Back and Bottom
+![](asm-right.png)
+
+### 7. Assemble Left to Back and Bottom
+![](asm-left.png)
+
+### 8. Assemble Top to Back, Left and Right
+![](asm-top.png)
+
+### 9. Assemble Axle blocks to frame
+Install axle before attaching the blocks. Glue well as these are load bearing. Add 1 5/8" screws from the inside to attach the blocks. Align the blocks to the bottom edge of the frame. Note the blocks are intentionally 7.5" tall to account for the rubber feet to be attached to the bottom of the frame. Don't put the wheels on yet so we can give the glue time to dry.
+![](asm-axle.png)
+
+### 10. Install the handle into the handle holder blocks
+Use glue and twist the handle into the holes it should be a tight fit. Use a flat surface to square up the blocks.
+![](asm-handle.png)
+
+### 11. Attach the Handle assembly to the frame
+With the help of a friend, use glue and screws to attach the handle assembly. Align to the top.
+![](asm-attach-handle.png)
+
+### 12. Time to Paint! (or apply the chosen finish)
+At this stage is a good time to apply finish before the rest of the parts are installed.
+
+### 13. Install wheels. Hammer on cap nuts.
+![](asm-wheels.png)
+
+### 14. Install (6) rubber bumpon feet
+Use a #8 washer and a 1/2" screw to attach.
 {{<columns>}}
-![](base-spacer.png)
+![](asm-top-bumpons.png)
 <--->
-![](spacer.png)
+![](asm-bottom-bumpons.png)
 {{</columns>}}
 
-<!--
-### 1. Start with the bottom
-We fount it is easy for error to stack up. We built a spacer template to align the sliders.
+### 15. Install tie down rings to the top and bottom
 
+### 16. Fill with organizers, install bungee
 
-### 2. Build from the bottom up
-
-
-### 3. Assemble Axle blocks to frame
-
-### 4. Install wheels. Hammer on cap nuts.
-
-### 5. Install  
---!>
+### 17. Project Completed!
+Good Luck Teams!

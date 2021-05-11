@@ -2,7 +2,7 @@
 title: Intro to CAM with Fusion 360
 description: Getting started with Fusion 360 CAM
 src: https://docs.google.com/document/d/1EK63A9zoJkVzYDzSKFMsQuw_GsHjY60yi7C2bry6HIY
-weight: 1
+weight: 10
 ---
 
 This is a brief introduction/refresher for creating GCODE via Fusion 360 CAM. This guide assumes CAM is targeted at the Velox using Mach3 as the GCODE sender.
