@@ -7,4 +7,10 @@ hidden: false
 subpage: false
 alwaysopen: false
 ---
-Vision is how the Robot see the world
+Vision is how the Robot see the world.
+
+There are many vision solutions available to FRC teams. Here are the ones our team found most useful:
+
+* PixyCam.
+* Limelight
+* USB Cameras
