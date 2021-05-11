@@ -11,6 +11,6 @@ Vision is how the Robot see the world.
 
 There are many vision solutions available to FRC teams. Here are the ones our team found most useful:
 
-* PixyCam.
+* PixyCam
 * Limelight
 * USB Cameras
