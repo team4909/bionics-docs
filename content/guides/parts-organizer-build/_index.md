@@ -11,6 +11,7 @@ This guide provides build instructions for making your very own parts organizer 
 The organizer has space for 17 shallow organizers or 8 deep organizers and 1 shallow. Depending on how part are organized parts one can mix and match small and large organizers.
 
 Drawings are [available for Download](part_bin_organizer_rack.pdf)
+The full CAD model is [available in OnShape](https://cad.onshape.com/documents/908c82db06a15b2abbb10e2d/w/c5fa4cf89b64bdc788a39e9b/e/c8ffc87674e4ccd3514ecd32)
 {{<columns>}}
 ![](cad-model.png)
 <--->
