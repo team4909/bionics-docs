@@ -9,6 +9,6 @@ title: Footer
 - [Tulane Maker Space](https://makerspace.tulane.edu/)
 {{</columns>}}
 
-&copy; [Billerica Bionics](team4909.org) -
+&copy; [Billerica Bionics](https://team4909.org) -
 <a title="Creative Commons Attribution-NonCommercial-ShareAlike" href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a>.
 
