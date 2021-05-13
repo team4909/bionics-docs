@@ -10,7 +10,7 @@ This is a short guide to importing CAM templates into Fusion 360 for CAM.
  - [Tormach Mill Template](Tormach-Mill-Template.f3dhsm-template)
  - [Velox Router Template](Velox-Router-Template.f3dhsm-template)
 2. Switch to the Manufacture workspace
-![](../cam-intro-fusion-360/fusion-manufacture.png)
+![](../fusion-manufacture.png)
 3. Open the Template Library
 ![](fusion-cam-template.png)
 4. Check both Local and Cloud to see if you already have the templates
