@@ -9,6 +9,6 @@ alwaysopen: false
 ---
 Due to the pandemic, we have come up with innovative solutions to some of the obstacles of working remotely.
 
-VS Code Liveshare
+[Visual Studio Code Liveshare](https://visualstudio.microsoft.com/services/live-share/)
 
 Liveshare has been extremely helpful when trying to integrate the collaborative thinking of in person coding sessions online. It allows everyone to be looking at, and editing the same files, in real time.

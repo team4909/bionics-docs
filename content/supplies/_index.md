@@ -2,8 +2,10 @@
 title: Stock & Supplies
 ---
 
-## Consumables
+Here are some of the supplies we attempt to keep on hand and, where we order the supplies from.
 
+## Consumables
+Consumables are products that get used up or consumed in the process of building the robot. Consumables are different than COTS components in that they are often modified before being incorporated into the robot.
 
 ### Zipties
 We stock 8" and 2" zipties in black. They are stored in the black competition tool box.
