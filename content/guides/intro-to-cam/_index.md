@@ -18,7 +18,15 @@ This is a brief introduction/refresher for creating GCODE via Fusion 360 CAM. Th
 2. Open the file in Fusion 360 {{< expand "Show Me..." >}}
 - [How to import or open a file in Autodesk Fusion 360](https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/How-to-import-or-open-a-file-in-Autodesk-Fusion-360.html)
 {{< /expand >}}
-3. Be sure the part is laying down with the correct face up. For some parts it will not matter which face is up.
+3. Be sure the part is laying down with the correct face up. We have had the most success when the part top face matches Fusion's Top orientation. For some parts it will not matter which face is up. {{< expand "Show Me..." >}}
+![](fusion-orientation.png)
+1. Locate the part in the browser under the Bodies section. Select the part by clicking on it once ![](fusion-bodies.png)
+2. Open the Move/Copy dialog by pressing the 'm' key on your keyboard ![](fusion-move-copy.png)
+3. Be sure that **Bodies...** is selected in the **Move Object** dropdown 
+4. Use the handles to move/roate the part ![](fusion-rotate-body.png)
+5. Click OK when complete. Part should look like this. Notice the orientation of the part and the view cube. ![](fusion-orientation-desired.png)
+{{< /expand >}}
+
 4. Change to the Manufacturing workspace {{< expand "Show Me..." >}}![](fusion-manufacture.png){{< /expand >}}
 
 5. Create a Setup which defines what your stock material shape and size are. test
