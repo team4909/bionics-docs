@@ -115,6 +115,14 @@ STAY NEXT TO THE LASER WHILE PRINTING!
 
 Done!
 
+## Material Notes
+When cutting wood, multiple passes may allow cutting of thicker materials. Using Color Mapping you can adjust the focus point between passes down to the
+center point of the cut for the best results.
+
+When cutting acrylic, adjusting the standard focus distance so it is closer to the lens by about .080” (2 mm) will produce better edge quality when cutting 1/4” (3mm) acrylic and thicker. Two passes can be used for cutting thicker materials. 
+
+There are two types of acrylic: cast is better for engraving (it creates a frosted look when engraved) and extruded acrylic produces a much better flame polished edge. 
+
 <br><br><br><br>
 
 
