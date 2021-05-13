@@ -88,9 +88,9 @@ Wood                 |          |       |
 9. Click Properties to open the laser configuration window
 ![](epilog-laser-config.png)
     - 1 - Be sure **Auto Focus** is selected
-    - 2 - Combined is sufficient unless you want to be sure to only do one type of operation
-    - 3a - Set the Speed and Power for the Raster (Engrave) operation
-    - 3b - Set the Speed, Power and Frequency for the Vector (Cut) operation
+    - 2 - **Combined** is sufficient unless you want to be sure to only do one type of operation
+    - 3a - Set the Speed and Power for the **Raster** (Engrave) operation
+    - 3b - Set the Speed, Power and Frequency for the **Vector** (Cut) operation
     - Click OK
 
 ### Power on, Load Material and Cut/Engrave
@@ -98,6 +98,7 @@ Wood                 |          |       |
     1. Laser Power: Switch on Left side
     2. Air Assist: Switch on compressor pump 
     3. Fume Extraction: Time Dial on wall (takes ~30 secs to start)
+
 11. Place your material in the upper left of the laser engraver bed
 
 {{% notice danger %}}
