@@ -29,6 +29,10 @@ Drawing sheets from CAD can be "printed" to the printer from Illustrator (No CAM
 
 NOTE: PVC MAY **NOT** BE CUT ON THE LASER. Poisonous Chlorine gas is produced.
 
+## Speed, Power, Frequency and DPI settings
+Here is an abreviated list of the manufacturer recommended settings for various materials. A more complete list can be found in [Laser material Settings][2]
+{{%excerpt-include filename="/equipment/cnc/epilog-helix-laser/laser-material-settings.md" /%}}
+
 ## Additional Resources
 - [Vendor Product Page][1]
 - [Laser material Settings][2]
