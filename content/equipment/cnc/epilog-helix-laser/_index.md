@@ -39,7 +39,9 @@ Here is an abreviated list of the manufacturer recommended settings for various 
 - [Epilog Helix Manual][3]
 
 [1]: https://www.epiloglaser.com/laser-machines/mini-helix-engraver-cutter/
-<!-- Source: https://www.epiloglaser.com/assets/downloads/fusion-material-settings.pdf  -->
+
+<!-- Source: https://www.epiloglaser.com/assets/downloads/legend-material-settings.pdf  -->
 [2]: laser-material-settings.pdf
+
 <!-- Source: https://www.epiloglaser.com/assets/downloads/manuals/legend-manual-web.pdf -->
 [3]: epilog-helix-manual.pdf
