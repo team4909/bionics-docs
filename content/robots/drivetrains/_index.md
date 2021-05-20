@@ -307,6 +307,11 @@ Cons:
 Source [^2013-zhu-drivetrains]
 
 
+## Drivetrain Simulator
+Many teams have built drivetrain models, one particularly good one is [ILITE Drivetrain Simulator][4]
+
+
+
 [^2021-cd-macaig]: [Chief Delphi: What are different types of wheels good for?][1]
 [^2013-zhu-drivetrains]: [Presentation: Introduction to Drivetrains][2]
 [^2008-baker-drive-systems]: [FIRST Robotics Drive Systems by Andy Baker (2008)][3]
@@ -314,4 +319,5 @@ Source [^2013-zhu-drivetrains]
 [1]: https://www.chiefdelphi.com/t/what-are-different-types-of-wheels-good-for/393828/7
 [2]: https://prezi.com/4bw1pdf7-pgj/introduction-to-drivetrains/
 [3]: https://www.andymark.com/pages/presentations
+[4]: https://www.chiefdelphi.com/t/ilite-drivetrain-simulator-v2020/369188
 
