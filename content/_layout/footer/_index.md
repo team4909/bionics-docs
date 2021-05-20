@@ -4,10 +4,13 @@ description: Footer
 title: Footer
 ---
 {{<columns markdown="true">}}
-#### Related
+#### Related Resources
 - [Berkley Mechanical Engineering](https://me.berkeley.edu/resources/student-machine-shop/shop-equipment/)
 - [Tulane Maker Space](https://makerspace.tulane.edu/)
 - [Boston Makers](https://www.bostonmakers.org/)
+- [StuyPulse 694](https://stuypulse.com/resources/)
+- [Simbotics 1114](https://www.simbotics.org/resources/)
+- [Andymark Presentations](https://www.andymark.com/pages/presentations)
 {{</columns>}}
 
 &copy; [Billerica Bionics](https://team4909.org) -
