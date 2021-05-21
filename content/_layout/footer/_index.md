@@ -14,6 +14,11 @@ title: Footer
 - [Cheesy Poofs Resources](https://www.team254.com/resources/)
 - [Pearce Robotics](https://team.pearcerobotics.com/)
 - [Killer Bees 33](http://www.killerbees33.com/resources/)
+- [FIRST Badges](https://www.firstbadges.com/)
+- [316 Shared Folder](https://drive.google.com/drive/u/0/folders/0BzH8kYOlg2ArbWtWRXl3c2xYd0U)
+- [PID without PhD](https://drive.google.com/file/d/0B8Oix1YVtSZgUW1sd3dOOFVzdXc/view)
+- [610 Design Tutorials](http://www.team610.com/wp-content/uploads/2014/03/Design-TutorialsRev10.pdf)
+- [FRC Survival Guide](https://www.chiefdelphi.com/t/paper-the-frc-survival-guide-v3-1/340825)
 {{</columns>}}
 
 &copy; [Billerica Bionics](https://team4909.org) -
