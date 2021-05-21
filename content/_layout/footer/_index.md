@@ -12,6 +12,8 @@ title: Footer
 - [Simbotics 1114](https://www.simbotics.org/resources/)
 - [Andymark Presentations](https://www.andymark.com/pages/presentations)
 - [Cheesy Poofs Resources](https://www.team254.com/resources/)
+- [Pearce Robotics](https://team.pearcerobotics.com/)
+- [Killer Bees 33](http://www.killerbees33.com/resources/)
 {{</columns>}}
 
 &copy; [Billerica Bionics](https://team4909.org) -
