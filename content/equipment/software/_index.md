@@ -7,7 +7,11 @@ hidden: false
 subpage: false
 alwaysopen: false
 ---
-## Our standard laptop image includes
+
+We rely on may pieces of software to build our robots.
+
+## Standard laptop image
+We have a number of shared use computers in the shop, donated by our generous sponsors. Below is a list of the software we keep in our base images for these computers.
 
 ### Manufacturing
 * Fusion 360 (CAM for Velox)
@@ -30,6 +34,8 @@ alwaysopen: false
 - Sublime Text
 
 ## Specialized desktop software
+This software is installed on dedicated-use computers connected directly to the machines they are used to control.
+
 - Tormach path Pilot
 - Mach3 CNC
 
