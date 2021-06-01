@@ -14,4 +14,4 @@ backend:
 media_folder: "static/images/uploads"
 # The src attribute for uploaded media will begin with /images/uploads
 public_folder: "/images/uploads" 
-publish_mode: editorial_workflow
+<!-- publish_mode: editorial_workflow -->
