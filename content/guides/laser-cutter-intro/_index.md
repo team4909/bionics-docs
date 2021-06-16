@@ -66,13 +66,13 @@ Leave Opacity at 100% and A at 225.
 
 1. Open the **SVG** file with Inkscape.
 
-1. Use the **Fill and Stroke...**(Shift-Ctrl-F) dialog to change the width of any lines that need to be cut.
+1. Use the **Fill and Stroke...**(Shift-Ctrl-F) dialog to change the width of any lines that need to be cut to .001 inches. Make sure units are **inches** not mm.
 
 2. The **Objects...** menu can be of use to see how the parts of your drawing are grouped.
 
-3. **Leave space around your part**, cutting to the edge of the stock is not recommended. If the stock isn't perfectly in the machine your part will have a misshapen edge.
+3. **Leave space around your part**, cutting to the edge of the stock is not recommended. If the stock isn't aligned perfectly in the machine your part will have a misshapen edge.
 
-4. Save your file for printing on the laser by making it a PDF. {{< expand "Explain..." >}}We have found that the laser requires a program which outputs proper postscript to accurately make the distinction between vector and raster. Printing from Inkscape does not seem to work. However Adobe products such as Acrobat Reader and Illustrator work well. {{< /expand >}}
+4. Save your file for printing on the laser by making it a PDF. `File > Save As > PDF` {{< expand "Explain..." >}}We have found that the laser requires a program which outputs proper postscript to accurately make the distinction between vector and raster. Printing from Inkscape does not seem to work. However Adobe products such as Acrobat Reader and Illustrator work well. {{< /expand >}}
 
 {{% notice danger %}}
 The following steps assume you are on a computer connected to the laser
@@ -80,18 +80,19 @@ The following steps assume you are on a computer connected to the laser
 
 ### Set Cutting and Engraving speeds
 
-5. Consult the [Laser Material Settings](/equipment/cnc/epilog-helix-laser/laser-material-settings.pdf) or the abbreviated table below for our 60W, CO2 Laser determine your power, speed and frequency/DPI for your material. {{%excerpt-include filename="/equipment/cnc/epilog-helix-laser/laser-material-settings.md" /%}}
-
 6. Open the PDF with Adobe Acrobat Reader
 7. File > Print
 8. Select the Epilog Laser from the list of printers
 9. Click Properties to open the laser configuration window
 ![](epilog-laser-config.png)
     - 1 - Be sure **Auto Focus** is selected
-    - 2 - **Combined** is sufficient unless you want to be sure to only do one type of operation
+    - 2 - **Combined** is sufficient unless you want to be sure to only do one type of operation (vector=cut and raster=engrave)
     - 3a - Set the Speed and Power for the **Raster** (Engrave) operation
     - 3b - Set the Speed, Power and Frequency for the **Vector** (Cut) operation
+    - 4 - Set the Page size to match **stock size** (often 24" horizontal x 18" vertical)
     - Click OK
+
+Consult the [Laser Material Settings](/equipment/cnc/epilog-helix-laser/laser-material-settings.pdf) or the abbreviated table below for our 60W, CO2 Laser determine your power, speed and frequency/DPI for your material. {{%excerpt-include filename="/equipment/cnc/epilog-helix-laser/laser-material-settings.md" /%}}
 
 ### Power on, Load Material and Cut/Engrave
 10. Turn On the Laser, Air Assist and Fume Extraction

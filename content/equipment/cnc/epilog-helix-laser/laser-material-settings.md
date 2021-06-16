@@ -8,16 +8,16 @@ subpage: true
 Material             | DPI/Freq | Speed | Power
 -------------------- | -------- | ----- | -----
 Acrylic              |          |       |
- &nbsp; Cutting 1/8" | 100 f    | 20    | 100
- &nbsp; Cutting 1/4" | 5000 f   | 12    | 100
+ &nbsp; Cutting 1/8" | 100 Hz   | 20    | 100
+ &nbsp; Cutting 1/4" | 5000 Hz  | 12    | 100
 Plastics             |          |       |
  &nbsp; Engraving    | 300 DPI  | 90    | 25
 Plastic (2 layer engraveable) | |       |
  &nbsp; Engraving    | 300 DPI  | 90    | 65
- &nbsp; Cutting 1/8" | 5000 f   | 30    | 85
+ &nbsp; Cutting 1/8" | 5000 Hz  | 30    | 85
 Wood                 |          |       |
  &nbsp; Engraving    | 300 DPI  | 40    | 100
- &nbsp; Cutting 1/4" | 500 f    | 20    | 100
+ &nbsp; Cutting 1/4" | 500 Hz   | 20    | 100
 
 {{% /excerpt %}}
 
