@@ -7,16 +7,30 @@ hidden: false
 subpage: false
 alwaysopen: false
 ---
-Tools we have
 
-https://www.amazon.com/OSCARBIDE-Indexable-Grooving-Parting-QA12R-30/dp/B07WBWTJQX
+## Various Lathe Tools
+![](types-of-tools.png)
+[Source](http://mechanicstips.blogspot.com/2016/04/turning-tool-holder-system.html)
 
-https://tormach.com/lathe-tool-starter-kit-1-34370.html
+## Tools we have
 
-https://tormach.com/3-piece-stfcr-boring-bar-set-33142.html
+### Parting/Grooving Tool
+![](oscarbide-qa12r-30.jpg)
+[Source](https://www.amazon.com/OSCARBIDE-Indexable-Grooving-Parting-QA12R-30/dp/B07WBWTJQX)
 
-https://tormach.com/rh-turning-facing-tool-mclnr-12-4c-33130.html
+### RH Parting/Grooving Tool
+![](tormach-parting-sgthr194x.jpg)
+[Source](https://tormach.com/rh-grooving-tool-sgthr-19-4-33347.html)
+
+### RH Turning/Facing Tool
+![](tormach-turning-facing-mclnr12-4c.jpg)
+[Source](https://tormach.com/rh-turning-facing-tool-mclnr-12-4c-33130.html)
+
+### Boring Bar Set
+![](tormach-boring_bar_set.jpg)
+[Source](https://tormach.com/3-piece-stfcr-boring-bar-set-33142.html)
+
+
 
 All possible tools
 
-http://mechanicstips.blogspot.com/2016/04/turning-tool-holder-system.html
