@@ -53,6 +53,7 @@ Our laser cutters have a maximum working area of 24" by 18"
 ### Preparing the file
 
 The laser will Cut any line that is exactly .001" wide, all others are engraved.
+These stes are done using a vector editing software called [Inkscape](https://inkscape.org/) which is free software.
 
 {{% notice warning %}}
 Thick lines will be etched or engraved (it will use the "raster" settings on the laser). If you make a line 0.001 inches thick it will be cut out (it will use the "vector" settings on laser).
@@ -62,6 +63,8 @@ Thick lines will be etched or engraved (it will use the "raster" settings on the
 NEVER APPLY ANY OPACITY OR ALPHA CHANGES IF YOU WANT TO VECTOR CUT!!
 Leave Opacity at 100% and A at 225.
 {{% /notice %}}
+
+1. Open the **SVG** file with Inkscape.
 
 1. Use the **Fill and Stroke...**(Shift-Ctrl-F) dialog to change the width of any lines that need to be cut.
 
